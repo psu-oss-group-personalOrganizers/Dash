@@ -14,5 +14,5 @@ Deploy: GithubPage
 ## License
 
 This program is licensed under the "MIT License", Please
-see the file ['LICENSE'](https://github.com/Sanlinlin/PersonalOrganizers/blob/master/LICENSE) in the source distribution of this
+see the file ['LICENSE'](https://github.com/psu-oss-group-personalOrganizers/helpful-organizers/blob/master/LICENSE) in the source distribution of this
 software for license terms.
