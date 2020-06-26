@@ -12,7 +12,7 @@ Copyright (c) 2020 psu-oss-group-personalOrganizers
 ## Tech stack
 Fronted:
 
-Deploy: GithubPage
+Deploy: You can use the ['Githubpage']( https://psu-oss-group-personalorganizers.github.io/helpful-organizers/) to look at the web-app.
 
 ## License
 
