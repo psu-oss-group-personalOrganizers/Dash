@@ -23,7 +23,7 @@ You can open [demo]() to look at the version of this project (Finish on the Week
 
 You can open [MVP Version]() to look at the Minimum Viable Product version of this project (Finish on the Week 6)
 
-You can use the ['Githubpage']( https://psu-oss-group-personalorganizers.github.io/helpful-organizers/) to look at the web-app.
+You can use the ['Githubpage']( https://psu-oss-group-personalorganizers.github.io/Dash/) to look at the web-app.
 
 ## License
 
