@@ -13,7 +13,17 @@ Copyright (c) 2020 psu-oss-group-personalOrganizers
 ## Tech stack
 Fronted:
 
-Deploy: You can use the ['Githubpage']( https://psu-oss-group-personalorganizers.github.io/helpful-organizers/) to look at the web-app.
+Deploy: Github Page
+
+## Project roadmap
+
+In this project, we expect to build a web app of collecting some Google popular software into a website, which is easy for users to use Google software. 
+
+You can open [demo]() to look at the version of this project (Finish on the Week 3)
+
+You can open [MVP Version]() to look at the Minimum Viable Product version of this project (Finish on the Week 6)
+
+You can use the ['Githubpage']( https://psu-oss-group-personalorganizers.github.io/helpful-organizers/) to look at the web-app.
 
 ## License
 
