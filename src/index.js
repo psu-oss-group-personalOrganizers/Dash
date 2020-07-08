@@ -13,7 +13,6 @@ ReactDOM.render(
             <h1> Personal Organizer </h1>
             <App />
           </div>
-        <Background/>
   </React.StrictMode>,
   document.getElementById('root')
 );
