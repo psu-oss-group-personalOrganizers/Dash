@@ -8,7 +8,7 @@ Copyright (c) 2020 psu-oss-group-personalOrganizers
 - Jacob Crisan
 - Michael Change
 - Shengjia He
-- Trevor Hensel
+- [Trevor Hensel](hensel@pdx.edu)
 
 ## Tech stack
 Fronted:
